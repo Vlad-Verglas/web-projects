@@ -41,7 +41,7 @@ web-projects/
 No build tools are needed. Clone the repo and open the `index.html` of any project in your browser:
 
 ```bash
-git clone https://github.com/<your-username>/web-projects.git
+git clone https://github.com/MoonCore-Sec/web-projects.git
 cd web-projects/<project-folder>
 ```
 
